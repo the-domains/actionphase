@@ -1,0 +1,28 @@
+name: ActionPhase
+favicon: null
+layout_spectrum: 0.15400711353868246
+typography_spectrum: 0.8530595677439123
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6756028835661709
+  lightness: 0.2692382615059614
+  saturation: 0.33199370303191245
+  rhythmicContrast: 0.7721655555069447
+purpose: []
