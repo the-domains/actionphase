@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ActionPhase]]></title>
         <description><![CDATA[ActionPhase]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/actionphase/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 01:20:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 01:22:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/actionphase/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>25 years experience strategizing and creating brands, engagement, and revenue</p>]]></description>
-            <link>undefined25-years-experience-strategizing-and-creating-brands-engage/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8229125-b59a-4268-aa60-a820bb9b7102.jpg">]]></description>
+            <link>https://thegrid.ai/actionphase/25-years-experience-strategizing-and-creating-brands-engage/index.html</link>
             <guid isPermaLink="false">c875074b-52b7-423a-8961-9be54d2d935d</guid>
-            <pubDate>Tue, 29 Mar 2016 01:19:58 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 01:22:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
